@@ -1,0 +1,10 @@
+psycopg2==2.9.6                     # Conexión con PostgreSQL
+dash==2.11.0                        # Framework para visualizaciones interactivas
+dash-bootstrap-components==1.4.0    # Estilos y componentes adicionales para Dash
+Faker==18.9.0                       # Generación de datos simulados
+pandas==2.1.3                       # Manipulación de datos
+plotly==5.15.0                      # Visualizaciones gráficas
+numpy==1.24.4                       # Operaciones matemáticas avanzadas
+geojson==3.0.1                      # Manejo de datos geoespaciales en formato JSON
+gunicorn==21.1.0                    # Servidor WSGI para producción (opcional)
+python-dotenv==1.0.0                # Gestión de variables de entorno
