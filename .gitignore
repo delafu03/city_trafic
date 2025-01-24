@@ -3,3 +3,6 @@
 
 # Archivos de configuración de entorno
 .env
+
+# Archivos de caché
+__pycache__/
